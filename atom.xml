@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Specimen Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2015-10-24T15:28:54+09:00</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://specimen-team.github.io/atom.xml" rel="self"/>
+  <link href="http://specimen-team.github.io/"/>
+  <updated>2015-10-24T15:41:09+09:00</updated>
+  <id>http://specimen-team.github.io/</id>
   <author>
     <name><![CDATA[specimen-team]]></name>
     
@@ -15,12 +15,12 @@
   
   <entry>
     <title type="html"><![CDATA[テスト投稿]]></title>
-    <link href="http://yoursite.com/blog/2015/10/24/tesutotou-gao/"/>
+    <link href="http://specimen-team.github.io/blog/2015/10/24/tesutotou-gao/"/>
     <updated>2015-10-24T15:26:17+09:00</updated>
-    <id>http://yoursite.com/blog/2015/10/24/tesutotou-gao</id>
-    <content type="html"><![CDATA[<h3>テスト投稿</h3>
+    <id>http://specimen-team.github.io/blog/2015/10/24/tesutotou-gao</id>
+    <content type="html"><![CDATA[<h3>更新のテスト投稿</h3>
 
-<p>記事の投稿のテストです。</p>
+<p>記事の更新投稿のテストです。</p>
 ]]></content>
   </entry>
   
